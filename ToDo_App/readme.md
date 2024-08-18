@@ -14,5 +14,9 @@ BONUS:
 
 Commands:
     npm init -y
-    npm i express --save
+    npm i express --save-dev
     npm run start
+    npm run dev
+    npm i mongoose --save
+    npm i dotenv --save
+
